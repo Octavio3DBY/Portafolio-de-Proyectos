@@ -1,3 +1,3 @@
-# Descripción-del-Proyecto
+# Descripción del Proyecto
 
 Este proyecto consistió en...
