@@ -13,7 +13,7 @@ El trabajo más destacable del proyecto contempla de la sección 5.5 PLAN DE ACC
 1. La definición los entregables.
 2. Un diagrama de Gantt con la división de trabajo realizados en el programa Project Libre.
 3. El flujograma del estado inicial del proceso.
-4. El procedimiento del proceso actual incluyendo: apertura de áreas participantes en el proceso, objetivo, alcance, responsabilidades de los responsables, descripción de cada paso en el proceso, lista de distribucón de personas a informar del proceso.
+4. El procedimiento del proceso actual incluyendo: apertura de áreas participantes en el proceso, objetivo, alcance, responsabilidades de los responsables, descripción de cada paso en el proceso, lista de distribución de personas a informar del proceso.
 5. Recomendaciones de optimización del proceso.
 6. El flujograma del estado mejorado del proceso.
 7. Hoja de optimización del proceso.
