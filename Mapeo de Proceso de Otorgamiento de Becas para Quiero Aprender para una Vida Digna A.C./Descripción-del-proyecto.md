@@ -9,7 +9,7 @@ Quiero Aprender por una Vida Digna A.C. es una asociación civil que se dedica a
 
 Este proyecto consistió en el mapeo y optimización del proceso de otorgamiento de becas. Este proceso es uno de los más importantes dentro de la organización en términos de la realización de sus objetivos sociales y en términos de recepción de ingresos. Por un lado, si no se dan becas, no se puede captar a todos los alumnos potenciales para ayudarlos rehabilitarse, pues sólo se ofrece la oportunidad a quienes tienen la holgura económica de pagar la cuota completa de inscripción para recibir educación especializada. Por otro lado, si no aumenta el número de alumnos inscritos, estén becados o no, no aumentan los ingresos de la asociación para fondear sus operaciones.
 
-El trabajo más destacable del proyecto contempla de la sección 5.5 PLAN DE ACCIÓN a la 7. CONCLUSIONES (páginas 34-53). En éstas se presenta:
+El trabajo más destacable del proyecto contempla de la sección 5.5 PLAN DE ACCIÓN a la 7. CONCLUSIONES (páginas 34-53 de Coordinando mejor para ayudar más). En éstas se presenta:
 1. La definición los entregables.
 2. Un diagrama de Gantt con la división de trabajo realizados en el programa Project Libre.
 3. El flujograma del estado inicial del proceso.
