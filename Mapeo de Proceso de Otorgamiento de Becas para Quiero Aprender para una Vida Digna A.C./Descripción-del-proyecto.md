@@ -17,6 +17,6 @@ El trabajo más destacable del proyecto contempla de la sección 5.5 PLAN DE ACC
 5. Recomendaciones de optimización del proceso.
 6. El flujograma del estado mejorado del proceso.
 7. Hoja de optimización del proceso: el procedimiento del proceso mejorado incluyendo el mismo detalle que el proceso inicial.
-8. Conclusiones con la presentación de resultados.
+8. Conclusiones: resumen de resultados.
 
 El resultado principal de optimizar este proceso fue desarrollar un plan de acción para que la asociación pudiera implementar cambios en el proceso. Determiné que con la eliminación de 4 actividades en el proceso se ahorrarían casi 3 horas de trabajo y el otorgamiento de becas se volvería 10% menos costoso.
