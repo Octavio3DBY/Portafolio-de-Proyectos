@@ -5,7 +5,7 @@ En esta carpeta, además de esta descripción, encontrarán los siguientes archi
 1. P02-2019 Puebla_ManfCostReport (28.02.2019): Archivo Excel del reporte de gastos de Mondelēz Planta Puebla.
 2. Reconocimientos de MDLZ: documentación que respalda mi periodo de prácticas profesionales en la empresa Mondelēz International y un reconocimiento que valida los resultados del desarrollo del reporte.
 
-Este proyecto consistió en el rediseño y automatización del reporte de gastos de la planta productiva de gomas y caramelos más grande del mundo: Planta Puebla de Mondelēz International.
+Este proyecto consistió en el rediseño y automatización del reporte de gastos de la planta productiva de gomas y caramelos más grande del mundo: Planta Puebla de Mondelēz International. El contexto en el que yo trabajé fue que el área de finanzas había tenido problemas (falta de tiempo y organización) para crear un reporte de gastos lo suficientemente fácil de generar mensualmente y de utilizar por las diferentes áreas para dar el detalle necesario en sus explicaciones.
 
 El proceso que definí para la generación de este reporte, grosso modo, consistió en lo siguiente:
 
