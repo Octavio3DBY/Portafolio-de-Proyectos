@@ -2,7 +2,7 @@
 
 Saludos a todos.
 
-En este repositorio encontrarán de mis proyectos profesionales y personales más destacables.
+En este repositorio encontrarán de mis proyectos profesionales más destacables.
 
 Los proyectos que aquí podrán consultar, con su respectiva documentación y resultados, son:
 
