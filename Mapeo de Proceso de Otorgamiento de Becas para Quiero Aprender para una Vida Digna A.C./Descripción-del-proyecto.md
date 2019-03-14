@@ -1,6 +1,6 @@
 # Descripción y Resultados del Proyecto
 
-En esta carpeta, además de esta descripción, encontrarán los siguientes dos archivos:
+En esta carpeta, además de esta descripción, encontrarán los siguientes archivos:
 
 1. x
 2. x
